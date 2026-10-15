@@ -1,0 +1,14 @@
+TROPA DO MEDELIN — CATÁLOGO PREMIUM
+=================================
+
+Conteúdo:
+- index.html: site completo, responsivo e com animações
+- capa.webp: imagem de capa (quando fornecida)
+- cartoes-rfid-premium.png: imagem de catálogo (quando fornecida)
+
+Como abrir:
+1. Extraia o arquivo ZIP.
+2. Mantenha os arquivos de imagem na mesma pasta do index.html.
+3. Abra index.html em um navegador atualizado.
+
+Os botões de contato abrem o Telegram/WhatsApp. O formulário prepara uma mensagem para copiar; não envia automaticamente.
